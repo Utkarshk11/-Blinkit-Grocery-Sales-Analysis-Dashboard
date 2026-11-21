@@ -1,4 +1,4 @@
-Blinkit-Grocery-Sales-Analysis-Dashboard
+# Blinkit-Grocery-Sales-Analysis-Dashboard
 
 🚀 **1.20M in Sales. 8,523 Items. One Dashboard to Uncover Business Insights.**
 
